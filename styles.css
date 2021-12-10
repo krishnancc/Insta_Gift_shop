@@ -4,11 +4,12 @@
 
   font-size:1.5rem;
 color:white;
-text-align: center;}
+text-align: center;
+padding: 5% 0%;}
         
-  .container-fluid{
-    padding: 7% 15%;
-  }
+.container-fluid{
+  padding: 7% 15%;
+}
 
   .nav-item{color: black;}
   
